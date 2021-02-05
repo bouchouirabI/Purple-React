@@ -1,4 +1,4 @@
-# Purple React Free Admin Template
+# Purple React Admin Template
 
 ```
 purple-react-free/
