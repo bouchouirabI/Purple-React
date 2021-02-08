@@ -1,5 +1,5 @@
-# Purple React Admin Template
-
+# Purple React Template
+test
 ```
 purple-react-free/
   ├── template
